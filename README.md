@@ -27,6 +27,11 @@ Check out corresponding Medium article:
 	* **total variation loss** (regularization - spatial smoothness to denoise the output image)
 5. Finally, we set our gradients and optimize with the [L-BFGS](https://en.wikipedia.org/wiki/Limited-memory_BFGS) algorithm.
 
+# Requirments
+
+- python 3.9
+- pip
+
 # Results
 
 ## Input
